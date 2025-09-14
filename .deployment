@@ -1,0 +1,19 @@
+# Deployment Configuration for Munir Demo Chat App
+
+## Build Commands
+# Web build: expo export --platform web
+# Android build: expo build:android
+# iOS build: expo build:ios
+
+## Environment Variables (set these before building)
+# EXPO_PUBLIC_API_URL=your-api-url
+# EXPO_PUBLIC_APP_VERSION=1.0.0
+
+## Platform-specific notes:
+# Web: Built files will be in the 'dist' folder
+# Android: APK will be available for download from Expo
+# iOS: IPA will be available for download from Expo (requires Apple Developer account)
+
+## Hosting recommendations:
+# Web: Vercel, Netlify, or any static hosting service
+# Mobile: Google Play Store, Apple App Store, or direct APK/IPA distribution

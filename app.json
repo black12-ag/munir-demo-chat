@@ -1,16 +1,18 @@
 {
   "expo": {
-    "name": "StitchChatApp",
-    "slug": "StitchChatApp",
+    "name": "Munir Demo",
+    "slug": "munir-demo",
     "version": "1.0.0",
+    "description": "A comprehensive chat application demo showcasing modern React Native development",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
-    "userInterfaceStyle": "light",
+    "userInterfaceStyle": "dark",
     "newArchEnabled": true,
+    "primaryColor": "#0da6f2",
     "splash": {
       "image": "./assets/splash-icon.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#101d23"
     },
     "ios": {
       "supportsTablet": true
@@ -24,7 +26,23 @@
       "predictiveBackGestureEnabled": false
     },
     "web": {
-      "favicon": "./assets/favicon.png"
+      "favicon": "./assets/favicon.png",
+      "name": "Munir Demo - Chat App",
+      "shortName": "Munir Demo",
+      "lang": "en",
+      "scope": "/",
+      "themeColor": "#0da6f2",
+      "backgroundColor": "#101d23",
+      "startUrl": "/",
+      "display": "standalone",
+      "orientation": "portrait",
+      "bundler": "metro"
+    },
+    "plugins": [
+      "expo-router"
+    ],
+    "experiments": {
+      "typedRoutes": true
     }
   }
 }

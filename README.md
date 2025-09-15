@@ -19,10 +19,11 @@
 This is a **professional portfolio project** demonstrating advanced React Native development skills through a fully-featured chat application. The project showcases cross-platform development capabilities, modern UI/UX design principles, and production-ready build configurations.
 
 ### ✨ **Live Demo**
-- 🌐 **Web Demo**: [**VIEW LIVE DEMO**](https://black12-ag.github.io/munir-demo-chat/) ⚡
+- 🌐 **Web Demo**: [**🚀 VIEW LIVE DEMO**](https://munir-demo-chat.netlify.app) ⚡
 - 📱 **Mobile**: Available for iOS and Android builds  
 - 💻 **Source Code**: Full source available in this repository
 - 🎬 **Demo Video**: Screen recording showcasing all features
+- 🔗 **Alternative**: [GitHub Pages](https://black12-ag.github.io/munir-demo-chat/)
 
 ---
 

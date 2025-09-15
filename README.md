@@ -19,9 +19,10 @@
 This is a **professional portfolio project** demonstrating advanced React Native development skills through a fully-featured chat application. The project showcases cross-platform development capabilities, modern UI/UX design principles, and production-ready build configurations.
 
 ### ✨ **Live Demo**
-- 🌐 **Web Demo**: [View Live Demo](https://your-demo-url.vercel.app) *(Deploy to get URL)*
-- 📱 **Mobile**: Available for iOS and Android builds
+- 🌐 **Web Demo**: [**VIEW LIVE DEMO**](https://black12-ag.github.io/munir-demo-chat/) ⚡
+- 📱 **Mobile**: Available for iOS and Android builds  
 - 💻 **Source Code**: Full source available in this repository
+- 🎬 **Demo Video**: Screen recording showcasing all features
 
 ---
 
